@@ -26,7 +26,8 @@
         "semi": [0, "always"],
         "react/jsx-indent": [0, "always"],
         "quotes":[0,"always",{"allowTemplateLiterals": true,"avoidEscape": true}],
-        "jsx-quotes": ["0", "always"],
-        "jsx-closing-bracket-location": [0, "always"]
+        "jsx-quotes": [0, "always"],
+        "jsx-closing-bracket-location": [0, "always"],
+        "import/prefer-default-export":0
     }
 }
